@@ -1,0 +1,26 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+/* .accordion-button:not(.collapsed) {
+    background-color: #f36944 !important;
+    color: white;
+} */
+
+.sticky-top {
+    top: 1.5em;
+}
+
+.form-check .form-check-input {
+    float: none;
+    margin-left: 0;
+}
+
+.form-check-input:checked {
+    background-color: transparent;
+}
+
+.offcanvas-footer {
+    padding: 1rem 1rem;
+    border-top: 1px solid #dee2e6;
+}
